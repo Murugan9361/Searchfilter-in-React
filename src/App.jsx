@@ -9,6 +9,7 @@ function App() {
     <>
     <SearchFilter/>
     </>
+    // go to assests and click the component.Finally you got a searchfilter component.
   )
 }
 
